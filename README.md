@@ -1,6 +1,6 @@
 # Guess-Number-Game-using-JS
 
-![Game Screenshot](./guessno.game.png)
+![guessno.game.png](https://github.com/sujitmahapatra/Guess-Number-Game-using-JS/blob/1ed166d252b8bddc8b7c8306548e91baeb3ca6e2/guess%20no.%20game.png)
 
 ## Description
 
